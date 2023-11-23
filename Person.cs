@@ -6,6 +6,9 @@ using System.Threading.Tasks;
 
 namespace dokumentation
 {
+    /// <summary>
+    /// Person kann erstellt werden
+    /// </summary>
     public class Person
     {
     }
